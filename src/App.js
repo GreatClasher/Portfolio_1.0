@@ -20,12 +20,12 @@ function App() {
           <div className="flex items-center font-semibold gap-x-1">
             <button className="py-1 px-3 cursor-pointer font-bold">
               <a target="_blank" rel="noreferrer" href={resume}>
-                Resume
+                CV
               </a>
             </button>
             <button className="py-1 px-3 cursor-pointer font-bold
             ">
-              <Link to="/work">Work</Link>
+              <Link to="/work">Experience</Link>
             </button>
             {dark?<i onClick={(e)=>setDark(!dark)} class="py-1 px-3 cursor-pointer fa-solid fa-sun hover:scale:50"></i>:<i onClick={(e)=>setDark(!dark)} class="py-1 px-3 cursor-pointer fa-solid fa-moon hover:scale-50"></i>}
           </div>

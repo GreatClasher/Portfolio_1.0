@@ -7,13 +7,13 @@ const Home = () => {
       <h1 className="font-semibold text-lg">Hi, I am</h1>
       <h1 className="font-extrabold mt-1 text-4xl">Avaneesh Singh</h1>
       <p className="text-lg mt-10">
-        I'm a front-end developer and a general googler with a keen eye for
+        I'm a Full Stack MERN developer and a general googler with a keen eye for
         creating engaging UI, bringing products to life. I spend most of my
-        coding time writing state logic and playing with components. ✌️
+        coding time writing functional logic and playing with components,libraries and modules. ✌️
         <br />
         <br />
-        Apart from coding, I'll be caught watching anime or scrolling Twitter
-        and Reddit or hanging out on meet talking about weird stuff.{" "}
+        Apart from coding, I'll be caught watching web-series or scrolling Twitter
+        and Reddit or hanging out on meet talking about weird stuff (not that much).
         <strong>xD</strong>
         <br />
         <br />
